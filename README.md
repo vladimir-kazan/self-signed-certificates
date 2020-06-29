@@ -7,6 +7,8 @@
 ## 1. Create Certificate Authority (CA) - The Issuer of certifcates
 
 ```txt
+$ ./create-ca.sh
+
 CA root key not found, creating...
 Generating RSA private key, 4096 bit long modulus
 .....................................++
